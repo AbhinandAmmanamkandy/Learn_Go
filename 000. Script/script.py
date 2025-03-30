@@ -24,8 +24,6 @@ except subprocess.CalledProcessError as e:
 
 go_code = """package main
 
-import "fmt"
-
 func main() {
 
 }
